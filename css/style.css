@@ -231,6 +231,16 @@ figure {
       width: 100%;
       padding: 0; } }
 
+.hero-services {
+  display: flex; flex-direction: row; flex-wrap: wrap; min-width: 300px; justify-content: space-between; max-width: 300px;
+}
+
+@media screen and (max-width: 768px) {
+  .hero-services {
+  max-width: none;
+}
+}
+
 #colorlib-hero {
   min-height: 500px;
   background: #fff no-repeat center center;
