@@ -73,7 +73,7 @@ figure {
   position: relative; }
 
 #colorlib-aside {
-  padding-top: 3em;
+  padding-top: 2em;
   padding-bottom: 80px;
   float: left;
   width: 300px;
@@ -92,7 +92,7 @@ figure {
       -ms-transform: translateX(-300px);
       -o-transform: translateX(-300px);
       transform: translateX(-300px);
-      padding-top: 4em; } }
+      padding-top: 2em; } }
   #colorlib-aside .author-img {
     width: 150px;
     height: 150px;
@@ -535,7 +535,7 @@ body.offcanvas {
 .timeline-centered .timeline-entry {
   position: relative;
   margin-top: 5px;
-  margin-left: 30px;
+  margin-left: 15px;
   margin-bottom: 10px;
   clear: both; }
 
@@ -577,7 +577,7 @@ body.offcanvas {
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
   background: #f2f3f7;
-  padding: 1.5em;
+  padding: 1em;
   margin-left: 60px;
   -webkit-background-clip: padding-box;
   -moz-background-clip: padding;
@@ -657,7 +657,7 @@ body.offcanvas {
   z-index: 0; }
   @media screen and (max-width: 768px) {
     .services {
-      margin-bottom: 4em; } }
+      margin-bottom: 1.5em; } }
   .services .icon {
     position: absolute;
     top: -20px;
