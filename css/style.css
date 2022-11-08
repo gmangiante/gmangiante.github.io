@@ -121,7 +121,8 @@ figure {
       padding-right: .3em; }
   #colorlib-aside #colorlib-main-menu {
     display: block;
-    width: 100%; }
+    width: 100%;
+   min-height: 230px; }
     #colorlib-aside #colorlib-main-menu .collapse {
       display: block !important; }
     #colorlib-aside #colorlib-main-menu ul {
