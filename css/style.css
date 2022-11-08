@@ -286,7 +286,7 @@ figure {
         display: table-cell;
         vertical-align: middle;
         min-height: 700px;
-        padding: 2.5em;
+        padding: 1em;
         position: relative; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
