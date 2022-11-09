@@ -626,6 +626,10 @@ body.offcanvas {
   filter: alpha(opacity=40);
   font-size: 16px; }
 
+.timeline-entry ul {
+  padding-inline-start: 15px;
+}
+
   .proj-img:before {
     content: "";
     position: absolute;
