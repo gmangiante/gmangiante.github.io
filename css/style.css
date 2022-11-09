@@ -626,6 +626,16 @@ body.offcanvas {
   filter: alpha(opacity=40);
   font-size: 16px; }
 
+  .proj-img:before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgba(0,0,0,0.25);
+}
+
 .services {
   margin-top: 20px;
   padding: 1em 1em 0.5em 1em;
